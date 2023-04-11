@@ -1,0 +1,4 @@
+name: dynamite-exploder
+version: '${project.version}'
+main: com.example.dynamiteexploder.DynamiteExploder
+api-version: 1.16
